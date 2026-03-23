@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_1026.jpeg"
+  avatar           : "IMG_1026_a.png"
   name             : "Tobias Shinyemba"
   pronouns         : # example: "she/her"  
   bio              : "Lecturer at the University of Namibia"
