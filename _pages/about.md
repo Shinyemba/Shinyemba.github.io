@@ -1,15 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Tobias's website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Tobias is a dedicated and hard-working professional who values integrity and is driven to achieve his goals. He holds an MSc in Applied Statistics and Demography, a BSc (Hons) in Population Studies and Statistics, and a Diploma in Applied Statistics from the University of Namibia (UNAM), as well as a Postgraduate Diploma in Public Health from the University of Pretoria. He has recently completed a PhD in Geography at Birkbeck, University of London and the London School of Hygiene and Tropical Medicine, United Kingdom. He previously served as a Monitoring and Evaluation Manager at the Namibia Planned Parenthood Association (NAPPA). In 2016, he began his academic career as a Tutor in the Department of Computing, Mathematical, and Statistical Sciences at UNAM, where he now serves as a Lecturer. He also volunteers as a Tutor in the School of Health Systems and Public Health at the University of Pretoria, South Africa.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 Tobias Shinyemba's personal website
 ======
