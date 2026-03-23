@@ -24,25 +24,25 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tobias Shinyemba"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Lecturer at the University of Namibia"
+  location         : "Windhoek, Namibia"
+  employer         : "University of Namibia"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tshinyemba@unam.na" 
 
   # Academic websites
-  academia         : # URL
+  academia        : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=z32xCDoAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0837-937X"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "researchgate.net/profile/Tobias-Shinyemba-2?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6ImhvbWUiLCJwb3NpdGlvbiI6Imdsb2JhbEhlYWRlciJ9fQ"
   scopus           : # URL
   zotero           : # URL
 
