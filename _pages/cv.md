@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* **PhD in Geography (Spatial Statistics)**, Birkbeck, University of London, UK, 2026
+* **PhD in Geography (Spatial Statistics)**, Birkbeck, University of London, UK
   * Thesis: *Geospatial modelling of violence against children and young people in Namibia: Evidence from the Violence Against Children and Youth Survey*
   * Advisors: Dr Shino Shiode (Birkbeck) and Prof. Karen Devries (LSHTM)
-* **Postgraduate Diploma in Public Health (Distinction)**, University of Pretoria, South Africa, 2022
-* **MSc in Applied Statistics and Demography**, University of Namibia, 2019
+* **Postgraduate Diploma in Public Health (Distinction)**, University of Pretoria, South Africa
+* **MSc in Applied Statistics and Demography**, University of Namibia
   * Thesis: *The impact of food insecurity on quality of life in Windhoek informal settlement: A structural equation modelling approach*
   * Advisors: Dr Ndeyapo N. Nickanor and Prof. Lawrence N. Kazembe
-* **BSc (Hons) in Population Studies, with Statistics**, University of Namibia, 2014
+* **BSc (Hons) in Population Studies, with Statistics**, University of Namibia
   * Project: *Determinants of adolescent fertility in Namibia: Evidence from the 2006-07 Namibia Demographic and Health Survey*
 * **Diploma in Applied Statistics**, University of Namibia, 2011
 
