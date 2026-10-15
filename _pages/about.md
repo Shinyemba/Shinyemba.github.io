@@ -22,5 +22,5 @@ Research interests
 
 Recent news
 ======
-* * **2026:** Completed PhD in Geography (Spatial Statistics), Birkbeck, University of London.
+* **2026:** Completed PhD in Geography (Spatial Statistics), Birkbeck, University of London.
 * **2025:** Awarded the 2024/25 Gwynne-Vaughan Prize Medal, Birkbeck, University of London.
