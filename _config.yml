@@ -88,8 +88,6 @@ publication_category:
     title: 'Journal Articles'
   books:
     title: 'Book Chapters'
-  underreview:
-    title: 'Manuscripts Under Review'
   reports:
     title: 'Working Papers and Technical Reports'
 
