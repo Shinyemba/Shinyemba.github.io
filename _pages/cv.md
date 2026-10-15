@@ -20,7 +20,7 @@ Education
   * Advisors: Dr Ndeyapo N. Nickanor and Prof. Lawrence N. Kazembe
 * **BSc (Hons) in Population Studies, with Statistics**, University of Namibia
   * Project: *Determinants of adolescent fertility in Namibia: Evidence from the 2006-07 Namibia Demographic and Health Survey*
-* **Diploma in Applied Statistics**, University of Namibia, 2011
+* **Diploma in Applied Statistics**, University of Namibia
 
 Work experience
 ======
