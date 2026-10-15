@@ -41,3 +41,13 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Publications in APA style: smaller text with a hanging indent */
+.apa-ref {
+  font-size: 0.8em;
+  line-height: 1.5;
+  padding-left: 2em;
+  text-indent: -2em;
+  margin: 0 0 0.9em 0;
+}
+.apa-ref a { word-break: break-all; }
